@@ -1,24 +1,8 @@
-# README
+# Saddlebag Dummy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Exist to test and provide exemplar for developing and integrating a Rails Engine
+having Webpacker components.
 
-Things you may want to cover:
+For more information, see [this
+post](http://ben.vandgrift.com/posts/rails-engine-webpacker-1/).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
